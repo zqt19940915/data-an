@@ -5,7 +5,7 @@
 
 网站新老客户数据图表
 
-![](http://ww1.sinaimg.cn/large/0067mVorgy1fhv20sh738j30ep0arwep.jpg)
+![新老客户](http://ww1.sinaimg.cn/large/0067mVorgy1fhv20sh738j30ep0arwep.jpg)
 
 ## 数据
 
