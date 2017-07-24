@@ -3,7 +3,7 @@
 
 ## 图表
 
-**网站新老客户数据图表**
+网站新老客户数据图表
 
 ![](http://ww1.sinaimg.cn/large/0067mVorgy1fhv20sh738j30ep0arwep.jpg)
 
